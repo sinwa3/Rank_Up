@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Rank_Up.unity
+    guid: 7cdf4b8229614774d99a126da737ff6e
   m_configObjects: {}
